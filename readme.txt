@@ -1,6 +1,6 @@
 === WC Duplicate Order ===
-Contributors: Patchgill
-Donate link: http://jamiegill.com/plugin-development/
+Contributors: GoDesign
+Donate link: http://godesign.pk
 Tags: woocommerce duplicate order, woocommerce clone order
 Requires at least: 4.4
 Tested up to: 4.9.4
